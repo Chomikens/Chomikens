@@ -1,6 +1,6 @@
 # Hello there, weary traveler!
 
-## My Journey 💼
+## 💼 My Journey 
 
 -   **Educational Background**: Earned a degree in Development Support and Educational Psychology, followed by a postgraduate course in Cognitive Skills Training.
 -   **Initial Steps in Programming**: Began my programming adventure by managing the website of a psychology portal, promoting an evidence-based approach to the subject.
