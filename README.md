@@ -13,7 +13,7 @@
 -   **Languages & Frameworks**: Proficient in HTML, CSS (including SASS/SCSS). Familiar with JavaScript, React and Next.js.
 -   **CSS Architecture**: Skilled in writing scalable and maintainable CSS with the BEM methodology and using the SCSS 7-1 pattern for organized code structure.
 -   **Responsive Design**: Adept at creating responsive websites with a mobile-first approach.
--   **CSS Frameworks**: Experience in using Tailwind CSS for efficient styling.
+-   **CSS Frameworks**: Experience in using Tailwind CSS and Bootstrap v5.3 for efficient styling.
 -   **Version Control**: Solid fundamentals in Git, with experience in managing code versions and collaborating on projects effectively.
 -   **Build Tools & Package Managers**: Hands-on experience with build tools like Parcel, Webpack, and Vite. Proficient in using npm for package management and project dependencies.
 -   **Optimization**: Focused on writing optimized code for better performance.
@@ -22,7 +22,7 @@
 
 -   **Mastering Vanilla JavaScript**: Currently deepening my understanding of vanilla JavaScript with an emphasis on writing testable and reliable code. Focusing on best practices and advanced concepts to solidify my JS foundations.
 -   **Exploring Testing Frameworks**: Actively learning and implementing various JavaScript testing frameworks to ensure code quality and functionality.
--   **Future Aspirations**: Planning to return to React and Next.js, with a specific interest in integrating GSAP or similar libraries for creating optimized and engaging web animations.
+-   **Future Aspirations**: Planning to return to React and Next.js, with a specific interest in: Three.JS, Node.JS, Express.js for creating optimized and engaging web animations.
 -   **Continuous Learning**: Always on the lookout for new libraries and techniques to enhance web performance and user experience, particularly in the realm of animations and interactive elements.
 
 ### 📫 How to Reach Me
