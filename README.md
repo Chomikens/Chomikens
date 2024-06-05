@@ -21,7 +21,6 @@
 ## 🚀 What I'm Working On
 
 -   **Mastering Vanilla JavaScript**: Currently deepening my understanding of vanilla JavaScript with an emphasis on writing testable and reliable code. Focusing on best practices and advanced concepts to solidify my JS foundations.
--   **Exploring Testing Frameworks**: Actively learning and implementing various JavaScript testing frameworks to ensure code quality and functionality.
 -   **Future Aspirations**: Planning to return to React and Next.js, with a specific interest in: Three.JS, Node.JS, Express.js for creating optimized and engaging web animations.
 -   **Continuous Learning**: Always on the lookout for new libraries and techniques to enhance web performance and user experience, particularly in the realm of animations and interactive elements.
 
